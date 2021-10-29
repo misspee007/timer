@@ -1,7 +1,9 @@
-# Timer
+# Countdown Timer
 
 ### Description
 This is a simple timer with start, stop and reset features. This project was built with ReactJs.
+
+[View live](https://misspee007.github.io/timer/)
 
 #### React skills used in this app
 
